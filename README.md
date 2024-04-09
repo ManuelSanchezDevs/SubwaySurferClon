@@ -1,5 +1,7 @@
 <h1 align="center">SubwaySurferClon</h1>
-<h3>This is a masterDev exam project in which you must advance without hitting obstacles in an infinite loop </h3>
+
+<h2>Description about the game. </h2>
+ <h4>This is a masterDev exam project in which you must advance without hitting obstacles in an infinite loop.</h4>
     
 <h2><p>Animations.</p></h2>
 <ul>
